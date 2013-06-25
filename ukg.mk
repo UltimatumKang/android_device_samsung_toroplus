@@ -50,3 +50,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # hybrid
 PRODUCT_COPY_FILES +=  \
     vendor/ukg/prebuilt/hybrid_xhdpi.conf:system/etc/beerbong/properties.conf
+    vendor/ukg/prebuilt/bootanimation/bootanimation_1280_720.zip:system/media/bootanimation.zip
